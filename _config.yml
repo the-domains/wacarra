@@ -1,0 +1,14 @@
+layout_spectrum: 0.8563911968376487
+typography_spectrum: 0.6592650662641972
+color:
+  brandStrength: 0.6209557873662561
+  lightness: 0.7505251134280115
+  saturation: 0.02477349410764873
+  rhythmicContrast: 0.7197001720778644
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: wacarra
